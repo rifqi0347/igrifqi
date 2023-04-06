@@ -90,10 +90,6 @@ const main = async () => {
   }
 };
 
-// Open @hanzvibes Instagram Profile
-const link = "https://www.instagram.com/hanzvibes";
-open(link);
-
 console.log(chalk`{bold.green 
 
   ██╗███╗░░██╗░██████╗████████╗░█████╗░░░░░░██╗░██████╗
